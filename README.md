@@ -22,7 +22,7 @@ git clone --recursive https://github.com/daqingliu/NMTree.git && cd NMTree
     - Our visual features are extracted by [MAttNet](https://github.com/daqingliu/MAttNet), please follow the instruction. Or just download and uncompress [Refcocog visual features](https://drive.google.com/file/d/14JM7XNJKvdDPGzRQ1w9Ru-8-1dW-54Gt/view?usp=sharing) into `data/feats/refcocog_umd` for testing this repo.
     - Preprocess vocabulary:
     ``` sh
-    python misc/preprocess.py --dataset refcocog --split_by umd
+    python misc/parser.py --dataset refcocog --split_by umd
     ```
 
 ## Training
