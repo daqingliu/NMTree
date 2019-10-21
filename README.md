@@ -1,7 +1,7 @@
 # Learning to Assemble Neural Module Tree Networks for Visual Grounding
 
 This repository contains the code for the following paper:
-- Daqing Liu, Hanwang Zhang, Zheng-Jun Zha, Feng Wu, *Learning to Assemble Neural Module Tree Networks for Visual Grounding*. in ICCV, 2019. ([PDF](https://arxiv.org/pdf/1812.03299))
+- Daqing Liu, Hanwang Zhang, Feng Wu, Zheng-Jun Zha, *Learning to Assemble Neural Module Tree Networks for Visual Grounding*. in ICCV, 2019. ([PDF](https://arxiv.org/pdf/1812.03299))
 
 ## Installation
 1. Install Python 3 ([Anaconda](https://www.anaconda.com/distribution/) recommended)
