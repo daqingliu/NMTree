@@ -35,7 +35,7 @@ python tools/train.py \
     --data_file data_dep \
     --batch_size 128 \
     --glove glove.840B.300d_dep \
-    --visual_feat_file matt_res_det_feats.pth
+    --visual_feat_file matt_res_gt_feats.pth
 ```
 
 ## Evaluation
